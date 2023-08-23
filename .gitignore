@@ -1,0 +1,4 @@
+.terraform/
+terrform.tfstate*
+.DS_Store
+*.lock.json
